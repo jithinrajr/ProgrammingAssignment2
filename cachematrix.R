@@ -1,6 +1,6 @@
 
 ## Create a matrix object to cache the inverse and a function to 
-## calculate it or return the cached objec
+## calculate it or return the cached object
 
 makeCacheMatrix <- function(x = matrix()) {
 i <- NULL
